@@ -1,6 +1,9 @@
-# Hi there, I'm Albert 👋 <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
+# Hi There, I'm Albert 👋 <img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
 ## I'm Super Curious about Computers :)
+
+### Short Introduction about myself
+I am an eager Y2 computer science undergraduate with the desire to learn and improve myself in this field. I aim to delve deeper into the world of software engineering and cybersecurity which address and solve real world problems with the focus on privacy and data security. 
 - 🌱 I’m currently learning Software Engineering and Cybersecurity
 - 🥅 2022 Goals: Be more productive and code more!
 ---
@@ -30,10 +33,24 @@
 
 ## Programming Language and Tools
 
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="PostGresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<p>
+<a href="https://github.com/albertsutz">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</a>
+<a href="https://github.com/albertsutz">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</a>
+<a href="https://github.com/albertsutz">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://github.com/albertsutz">
+  <img alt="PostGresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+<a href="https://github.com/albertsutz">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</a>
+<a href="https://github.com/albertsutz">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+</p>
 
