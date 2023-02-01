@@ -3,7 +3,7 @@
 ## I'm Super Curious about Computers :)
 
 ### Short Introduction about myself
-I am an eager Y2 computer science undergraduate with the desire to learn and improve myself in this field. I aim to delve deeper into the world of software engineering and cybersecurity which address and solve real world problems with the focus on privacy and data security. 
+I am an eager Y3 computer science undergraduate with the desire to learn and improve myself in this field. I aim to delve deeper into the world of software engineering and cybersecurity which address and solve real world problems with the focus on privacy and data security. 
 - 🌱 I’m currently learning Software Engineering and Cybersecurity
 - 🥅 2022 Goals: Be more productive and code more!
 ---
